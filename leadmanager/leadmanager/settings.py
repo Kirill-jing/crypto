@@ -30,7 +30,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 CORS_ORIGIN_WHITELIST = (
-    'http://localhost:8080',
+    'https://solidblock.me',
 
 )
 
